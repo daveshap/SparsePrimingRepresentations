@@ -1,0 +1,8 @@
+- SPR (Sparse Priming Representation)
+- Concise, context-driven memory summaries
+- Enables SMEs or LLMs to reconstruct ideas
+- Short, complete sentences provide context
+- Effective for memory organization and retrieval
+- Reduces information to essential elements
+- Facilitates quick understanding and recall
+- Designed to mimic human memory structure
