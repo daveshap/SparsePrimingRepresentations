@@ -1,0 +1,9 @@
+- Implied Cognition: Emergent cognitive abilities in LLMs.
+- Context Awareness: Understand context, identify gaps.
+- Adaptive Communication: Incorporate new info, tailor responses.
+- Conceptual Integration: Synthesize ideas, generate insights.
+- Goal-Oriented Problem Solving: Assist users, achieve objectives.
+- Proposed Tests: Logical reasoning, ambiguity, relevant questions, counterfactual thinking, self-explication.
+- Theory: Large-scale architecture, extensive training, implicit understanding.
+- Challenges: Discern self-explication/confabulation, interpretability, ethics, practical applications.
+- LLM Perspective: Helpfulness, improvement, collaboration, responsible use.
