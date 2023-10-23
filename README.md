@@ -60,3 +60,10 @@ LLMs are a kind of deep neural network. They have been demonstrated to embed kno
 # METHODOLOGY
 Use the primings given to you to fully unpack and articulate the concept. Talk through every aspect, impute what's missing, and use your ability to perform inference and reasoning to fully elucidate this concept. Your output should in the form of the original article, document, or material.
 ```
+
+## Other Resources
+
+If you'd like a bit more on information theory, check out this video and Medium article I wrote:
+
+Beyond Vector Search: Knowledge Management with Generative AI: https://youtu.be/YjdmYCd6y0M
+Medium: https://medium.com/@dave-shap/beyond-vector-search-knowledge-management-with-generative-ai-6c2d10b481a0
