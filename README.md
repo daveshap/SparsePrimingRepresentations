@@ -31,6 +31,8 @@ Most of the techniques out there do not make use of the best super power that LL
 
 These SPRs are the most token-efficient way to convey complex concept to models for in-context learning. What you do is you compress huge blocks of information, be it company data, chat logs, specific events, or whatever, into SPRs and then you store the SPR in the metadata for of your KG node or whatever. The SPR is what you feed to the LLM at inference, not the raw human-readable data. 
 
+TODO: put actual working examples in this repo, integrated with other frameworks
+
 ## SPR Generator
 
 Use this to compress any arbitrary block of text into an SPR.
