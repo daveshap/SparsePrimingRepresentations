@@ -65,5 +65,5 @@ Use the primings given to you to fully unpack and articulate the concept. Talk t
 
 If you'd like a bit more on information theory, check out this video and Medium article I wrote:
 
-Beyond Vector Search: Knowledge Management with Generative AI: https://youtu.be/YjdmYCd6y0M
-Medium: https://medium.com/@dave-shap/beyond-vector-search-knowledge-management-with-generative-ai-6c2d10b481a0
+- Beyond Vector Search: Knowledge Management with Generative AI: https://youtu.be/YjdmYCd6y0M
+- Medium: https://medium.com/@dave-shap/beyond-vector-search-knowledge-management-with-generative-ai-6c2d10b481a0
