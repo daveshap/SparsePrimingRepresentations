@@ -1,4 +1,4 @@
-- HMCS (Hierchical Memory Consolidation System)
+- HMCS (Hierarchical Memory Consolidation System)
 - HMCS manages large-scale memory storage and retrieval.
 - Utilizes log-based memory for recording thoughts, inputs, and outputs.
 - Periodically consolidates logs into rollup summaries.
